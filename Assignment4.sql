@@ -1,5 +1,5 @@
 /*
-Name: Kailash Chadra Sahu
+Name: Kailash Chandra Sahu
 Regd No: 2161020058
 Desc: Assignment 4
 Branch: MCA
