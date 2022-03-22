@@ -43,11 +43,11 @@ r) select SQRT(6464312) from dual;
 
 s) select LOWER('HELLO ITER') from dual;
 
-t) select INITCAP('nikhil nayak') from dual;
+t) select INITCAP('Kailash Sahu') from dual;
 
 u) select ROUND(2390.0038, 2) from dual;
 
-v) select SUBSTR('Nikhil Nayak', 2, 5) from dual;
+v) select SUBSTR('Kailash Sahu', 2, 5) from dual;
 
 w) select LENGTH('Siksha O Anusandhan') from dual;
 
